@@ -1,1 +1,1 @@
-My repo readme
+ my directory readme
