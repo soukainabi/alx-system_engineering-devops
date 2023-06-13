@@ -1,1 +1,1 @@
- my directory readme
+ permissions of shelle
